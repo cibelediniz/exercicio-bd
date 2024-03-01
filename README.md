@@ -1,2 +1,2 @@
-# exercicio-bd
-Exercício de Banco de Dados - Bootcamp Data Analytics
+# Exercício de Banco de Dados
+WoMakersCode - Bootcamp Data Analytics
